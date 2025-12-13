@@ -1,4 +1,4 @@
-# SSH-attack-simulation-and-detection-using-wazuh
+
 # 🔐 Wazuh SIEM – Windows SSH Brute Force Detection Lab
 
 This project demonstrates how Wazuh SIEM detects brute-force attacks performed against a Windows 10 machine using SSH.  
